@@ -1,2 +1,1 @@
-# GHW_GenAI_25
-This repository stores my attempt for MLH GenAI Week challenges in 2025.
+This is my attempt for creating an AI Blog Writing Agent using Clarifai for MLH GenAI Challenge 2025!
